@@ -1,0 +1,24 @@
+{
+  "name": "corpox",
+  "version": "1.0.0",
+  "description": "Pick random employees",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "info-panel"
+  },
+  "keywords": [
+    "employee",
+    "pick",
+    "node",
+    "JS"
+  ],
+  "author": "Andrzej Ignatowicz (infopanel)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
