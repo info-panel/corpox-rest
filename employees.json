@@ -9,7 +9,7 @@
     "willingToTrip": 0,
     "team": "Delta",
     "district": "South",
-    "visionDefect": 0
+    "visionDefect": 1
   },
   {
     "id": 2,
@@ -57,7 +57,7 @@
     "willingToTrip": 1,
     "team": "Beta",
     "district": "East",
-    "visionDefect": 0
+    "visionDefect": 1
   },
   {
     "id": 6,
