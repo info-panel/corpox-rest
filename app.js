@@ -53,7 +53,7 @@ app.listen(5000, () => {
 
 
 app.get("/", (req, res, next) => {
- res.json("CORPOX Server running. Good luck!");
+ res.json("CORPOX 2024 Server running. Good luck!");
 });
 
 app.get("/get-random-employee", (req, res, next) => {
